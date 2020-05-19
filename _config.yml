@@ -17,7 +17,7 @@ theme: # leave it empty
 
 # social
 author: kyjun
-image: /thumbnail.webp
+image: /thumbnail.png
 
 plugins:
   - jekyll-target-blank
