@@ -8,11 +8,11 @@ Introduction : 강화학습의 개념과 목적 설명
 > 강화학습 튜토리얼은 다음 자료를 참고하였습니다.
 > 1. [David Silver RL Lectures](https://www.davidsilver.uk/teaching/)
 > 2. [Dennybritz RL Github](https://github.com/dennybritz/reinforcement-learning)
->3. [Arthur Juliani's Medium Posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+> 3. [Arthur Juliani's Medium Posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 >
-> 최소한의 수식을 사용하고, 누구나 이해할 수 있는 설명을 목표로 작성했습니다.
-<br/>
-> 피드백은 항상 환영합니다.
+> - 최소한의 수식을 사용하고, 누구나 이해할 수 있는 설명을 목표로 작성했습니다.
+> - 피드백은 항상 환영합니다.
+> - 모바일에서는 읽기 모드로 바꿔서 읽는 걸 추천드립니다.
 
 ### 지도학습, 비지도학습, 그리고 강화학습
 
