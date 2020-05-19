@@ -1,4 +1,9 @@
-﻿## 01. RL Introduction
+﻿---
+layout: post
+title: "01. RL Introduction"
+categories: rl
+---
+
 > 강화학습 튜토리얼은 다음 자료를 참고하였습니다.
 > 1. [David Silver RL Lectures](https://www.davidsilver.uk/teaching/)
 > 2. [Dennybritz RL Github](https://github.com/dennybritz/reinforcement-learning)

@@ -2,7 +2,7 @@ title: Jun's Study Journal
 description: Interested in RL, NLP and what AI can do
 show_downloads: true
 
-baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "/rl-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://KYJun.github.io" # change this to the base hostname & protocol for your site
 
 
