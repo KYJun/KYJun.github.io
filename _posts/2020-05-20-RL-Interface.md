@@ -1,13 +1,14 @@
 ﻿---
 layout: post
-title: "02. Reinforcement Learning Interface (강화학습 구성 요소)"
+title: "02. Reinforcement Learning Interface
+(강화학습 구성 요소)"
 categories: rl
 ---
 Interface : 강화학습의 기본 구성요소
 
 > 강화학습 튜토리얼은 다음 자료를 참고하였습니다.
 > 1. [David Silver RL Lectures](https://www.davidsilver.uk/teaching/)
-> 2. [Dennybritz RL Github](]https://github.com/dennybritz/reinforcement-learning)
+> 2. [Dennybritz RL Github](https://github.com/dennybritz/reinforcement-learning)
 >3. [Arthur Juliani's Medium Posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 >
 > 최소한의 수식을 사용하고, 누구나 이해할 수 있는 설명을 목표로 작성했습니다.
@@ -27,7 +28,7 @@ Interface : 강화학습의 기본 구성요소
 
 아래는 강화학습의 Interface를 간략하게 나타낸 그림입니다. 
 
-![interface](/_images/interface.png)
+![interface](/assets/02_rl_interface/interface.png)
 > (출처 : https://www.davidsilver.uk/wp-content/uploads/2020/03/intro_RL.pdf)
 
 먼저 크게 Agent (에이전트)와 Environment (환경)라는 두 대상이 있고, 각 대상 간의 상호작용을 나타내는 action (행동)과 reward (보상), observation (관측)이라는 요소가 있습니다. 
