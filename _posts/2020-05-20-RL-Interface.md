@@ -1,7 +1,6 @@
 ﻿---
 layout: post
-title: "02. Reinforcement Learning Interface
-(강화학습 구성 요소)"
+title: "강화학습 튜토리얼 02: 강화학습 구조"
 categories: rl
 ---
 Interface : 강화학습의 기본 구성요소
