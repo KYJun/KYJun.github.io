@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: "01. RL Introduction"
+title: "01. Reinforcement Learning Introduction"
 categories: rl
 ---
-Introduction : 강화학습의 개념과 목적 설명
+Introduction : 강화학습(RL) 개념과 목적 설명
 
 > 강화학습 튜토리얼은 다음 자료를 참고하였습니다.
 > 1. [David Silver RL Lectures](https://www.davidsilver.uk/teaching/)
