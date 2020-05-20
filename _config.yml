@@ -26,5 +26,5 @@ target-blank:
     rel: nofollow
 
 header_page_refs: ['contact']
-disqus_url: kyjun.github.io
-disqus_id: kyjun-github-io
+
+disqus-shortname: kyjun-github-io
