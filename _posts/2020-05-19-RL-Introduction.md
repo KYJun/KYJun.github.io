@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "01. Reinforcement Learning Introduction"
+title: "01. Reinforcement Learning Introduction (강화학습 소개)"
 categories: rl
 ---
 Introduction : 강화학습(RL) 개념과 목적 설명
