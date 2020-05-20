@@ -26,13 +26,5 @@ target-blank:
     rel: nofollow
 
 header_page_refs: ['contact']
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "kyjun-github-io"
-
-defaults:
-  scope:
-      type: posts
-  values:
-    comments: true
+disqus_url: kyjun.github.io
+disqus_id: kyjun-github-io
