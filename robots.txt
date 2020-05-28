@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: http://kyjun.github.io/sitemap.xml
