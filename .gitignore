@@ -6,3 +6,5 @@ Gemfile.lock
 vendor/*
 .jekyll-metadata
 _posts/tmp
+.DS_Store
+assets/.DS_Store
