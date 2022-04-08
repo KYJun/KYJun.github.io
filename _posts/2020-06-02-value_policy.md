@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "강화학습 튜토리얼 05 : Value & Policy"
 categories: rl
@@ -80,7 +80,7 @@ Q-Value는 다음과 같이 정의할 수 있습니다.
 
 위 식을 정리하면 현재 State(s)와 Action(a)의 Q-value는 해당 action을 통해 진행한 다음 State(s')에서 얻게 되는 Reward(R)와 다음 State에서 가능한 Action(a') 간 얻을 수 있는 Q-value의 기대값에 discount factor(gamma)를 곱해서 합한 값이라는 것이다.
 
-> Return과 Discount Factor는 [MDP 포스트](/rl/2020/05/25/MDP.html) 를 참조
+> Return과 Discount Factor는 MDP 포스트를 참조
 
 즉, 현재의 Q-value를 구하기 위해선 필연적으로 다음 Q-value가 필요하다.
 
